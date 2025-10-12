@@ -26,6 +26,11 @@ I'm a Full Stack Developer with a passion for building scalable and user-friendl
 - **[Frankton Fresh](https://franktonfresh.co.nz/):** A high-performance e-commerce web app with an admin panel.
 - **[Villagio](https://play.google.com/store/apps/details?id=com.villagio.app):** A hybrid mobile app with interactive event maps.
 
+## 📊 My GitHub Stats
+
+[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi212&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌱 I'm Currently Exploring
 
 I'm always looking to learn and grow. Currently, I'm managing a home lab server using Proxmox VE and Ubuntu, where I self-host web applications and experiment with virtualization and containers.
