@@ -19,13 +19,6 @@ I'm a Full Stack Developer with a passion for building scalable and user-friendl
 - **Database:** MongoDB
 - **Tools & Others:** Docker, Google Maps, MapBox, React Query, Axios
 
-## ✨ Recent Projects
-
-- **[Cloudquarks](https://hexalytics.com/):** A custom UI library and dynamic data table for an enterprise web application.
-- **[Raina's Blog](https://blog.rajinspace.com/):** A personal blog with server-side rendering and an admin panel for content management.
-- **[Frankton Fresh](https://franktonfresh.co.nz/):** A high-performance e-commerce web app with an admin panel.
-- **[Villagio](https://play.google.com/store/apps/details?id=com.villagio.app):** A hybrid mobile app with interactive event maps.
-
 ## 📊 My GitHub Stats
 
 [![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
