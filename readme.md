@@ -30,5 +30,6 @@ I'm always looking to learn and grow. Currently, I'm managing a home lab server 
 
 ## 📫 Let's Connect
 
-- **Blog:** [blog.rajinspace.com](https://blog.rajinspace.com/)
+- **Blog:** [blog.rainaspace.com](https://blog.rainaspace.com)
+- **Portfolio:** [www.rainaspace.com](https://www.rainaspace.com)
 - **GitHub:** [github.com/ravi212](https://github.com/ravi212)
