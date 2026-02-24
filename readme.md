@@ -15,9 +15,9 @@ I'm a Full Stack Developer with a passion for building scalable and user-friendl
 
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** Next.js, React, Angular, React-Native, Tailwind CSS, ShadCn
-- **Backend:** Node.js, Express, Medusa.js
-- **Database:** MongoDB
-- **Tools & Others:** Docker, Google Maps, MapBox, React Query, Axios
+- **Backend:** Node.js, Express.js, Nest.js, Medusa.js
+- **Database:** MongoDB, PostgresSQL, MySQL
+- **Tools & Others:** Docker, Google Maps, MapBox, React Query, Axios, Redux
 
 ## 📊 My GitHub Stats
 
