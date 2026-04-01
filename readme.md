@@ -2,113 +2,73 @@
 
 Full Stack Developer (4+ years) building **high-performance, production-grade web & mobile applications**.
 
-I focus on **performance, scalability, and developer experience** — not just shipping features, but making sure they scale, load fast, and stay maintainable.
+I focus on **scalability, performance, and clean architecture** — not just shipping features, but making sure they’re fast, reliable, and maintainable at scale.
 
 ---
 
-## 🚀 What I Actually Do
+## 🚀 What I Do
 
-- ⚡ Build **fast, scalable frontend architectures** (React, Next.js, Angular)
-- 🧠 Design **efficient data layers** (React Query, Axios, caching strategies)
-- 🏗️ Develop **full-stack systems** with clean API design (Node.js, NestJS)
-- 📦 Create **reusable UI systems & component libraries**
-- 🚢 Ship production apps with **Docker + CI/CD + AWS**
-- 📉 Optimize performance (cut load times, reduce API load, improve UX)
+- ⚡ Build scalable frontend systems using React, Next.js, and Angular  
+- 🧠 Design efficient data layers with caching and API optimization  
+- 🏗️ Develop full-stack applications with clean backend architecture (Node.js, NestJS)  
+- 🧩 Create reusable UI systems and component libraries  
+- 🚢 Ship production apps using Docker, CI/CD, and AWS  
+- 📉 Optimize performance (load time, API efficiency, UX)  
 
 ---
 
-## 🧩 Real Impact
+## 🧩 Impact
 
-- 🚀 Reduced API load by **~30%** using optimized data layers (React Query + caching)
-- ⚡ Improved app load times by **up to 30%** across production apps
-- 🧱 Built reusable UI systems → **faster feature delivery across teams**
-- 🔄 Led sprint execution + CI/CD setup → **more reliable releases**
-- 📊 Delivered scalable frontend architectures used across multiple products
+- 🚀 Reduced API load by **~30%** through optimized data fetching strategies  
+- ⚡ Improved application load times by **up to 30%**  
+- 🧱 Built reusable UI systems → faster feature delivery  
+- 🔄 Improved release reliability with CI/CD and structured workflows  
+- 📊 Delivered scalable solutions across multiple production apps  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript, TypeScript
+**Languages**  
+JavaScript, TypeScript  
 
-**Frontend**
-- React, Next.js, Angular, React Native  
-- Tailwind CSS, Redux, React Query  
+**Frontend**  
+React, Next.js, Angular, React Native  
+Tailwind CSS, Redux, React Query  
 
-**Backend**
-- Node.js, Express.js, NestJS  
-- REST APIs, JWT, OAuth2, RBAC  
+**Backend**  
+Node.js, Express.js, NestJS  
+REST APIs, JWT, OAuth2, RBAC  
 
-**Database**
-- MongoDB, PostgreSQL, Prisma  
+**Database**  
+MongoDB, PostgreSQL, Prisma  
 
-**DevOps & Infra**
-- Docker, CI/CD, AWS (S3, Secrets Manager), GHCR  
-- Linux (Ubuntu), PM2  
+**DevOps & Infra**  
+Docker, CI/CD, AWS (S3, Secrets Manager), GHCR  
+Linux (Ubuntu), PM2  
 
-**Tools**
-- GitHub, Mapbox, Google Maps, Medusa.js  
-
----
-
-## 🧪 Featured Work
-
-### 🔹 CloudQuarks (Enterprise Platform)
-- Built **custom UI library + shared data layer**
-- Enabled **faster feature delivery & consistent UI**
-- Implemented **i18n + RTL support for global users**
-- Set up **Docker-based CI/CD with AWS**
-
-👉 https://cloudquarks.com
+**Tools**  
+GitHub, Mapbox, Google Maps, Medusa.js  
 
 ---
 
-### 🔹 PET (Project Expense Tracker)
-- Full-stack app with **schema-driven APIs**
-- Built with **NestJS + React + Docker CI/CD**
-- Focused on **performance + modular architecture**
+## 🧠 Currently Exploring
 
-👉 https://pet.rainaspace.com  
-👉 https://github.com/ravi212/pet  
-
----
-
-### 🔹 Raina’s Blog
-- SSR blog with **admin panel + server actions**
-- Optimized for **SEO + fast content publishing**
-- Self-hosted with **containerized MongoDB**
-
-👉 https://blog.rainaspace.com  
-
----
-
-### 🔹 Frankton Fresh (E-commerce)
-- Improved **order processing speed by 25%**
-- Reduced load times by **~30%**
-
-👉 https://franktonfresh.co.nz  
-
----
-
-## 🧠 What I'm Exploring
-
-- 🏠 Running a **Proxmox home lab**
-- 🐳 Deep diving into **containers & self-hosting**
-- ⚙️ System design + scaling real-world apps
-- 🤖 Moving toward **AI-powered applications**
+- 🏠 Home lab (Proxmox, self-hosting, containers)  
+- ⚙️ System design & distributed systems  
+- 🤖 AI-powered applications  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi212&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi212&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi212&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi212&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 - 🌐 Portfolio: https://www.rainaspace.com  
 - ✍️ Blog: https://blog.rainaspace.com  
@@ -118,4 +78,4 @@ I focus on **performance, scalability, and developer experience** — not just s
 
 ## ⚡ Fun Fact
 
-I run my own **home lab server** where I self-host apps, break things, fix them, and learn how systems actually work under the hood.
+I run a **home lab server** where I experiment with containers, self-hosting, and real-world system setups.
